@@ -11,7 +11,7 @@
 
 ## Description
 
-Template repository for Playwright QA automation framework using Mocha/Chai
+Template repository for Playwright QA automation framework using Mocha and Chai npm libraries
 
 ---
 
