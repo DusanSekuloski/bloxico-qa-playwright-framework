@@ -23,7 +23,7 @@ Install Node modules, run:
 ```
 npm i
 ``` 
-Check if you already have Node instaled, run:  
+Check if you already have Node installed, run:  
 ```
 node -v
 ``` 
