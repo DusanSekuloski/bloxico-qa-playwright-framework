@@ -42,7 +42,7 @@ npx playwright install
 To run Smoke test, run:
 
 ```
-npm test
+npx playwright test
 ```
 
 By default, tests will run in `headless` mode, to change that go to `playwright.config.js` file and change the `headless` parameter to `false`.
