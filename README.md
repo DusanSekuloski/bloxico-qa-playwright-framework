@@ -1,4 +1,4 @@
-# NFT-TiX QA Automation Repository
+# Playwright QA Automation Template Repository
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@
 
 ## Description
 
-This repository contains UI automation tests for NFT-TiX web application using Playwright test automation framework.
+Template repository for QA automation using Playwright framework
 
 ---
 
@@ -48,11 +48,5 @@ npm test
 By default, tests will run in `headless` mode, to change that go to `playwright.config.js` file and change the `headless` parameter to `false`.
 
 
----
 
-## Branch naming conventions
 
-When creating a Git branch you should adhere to the following structure, example:
-```
-feature/NT-[Github issue ID]
-```
